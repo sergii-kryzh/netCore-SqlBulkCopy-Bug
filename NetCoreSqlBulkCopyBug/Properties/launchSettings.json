@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NetCoreSqlBulkCopyBug": {
+      "commandName": "Project",
+      "commandLineArgs": "reproduce -c=\"Data Source=DEV-SRV01;Initial Catalog=Sandbox;Integrated Security=SSPI;\""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+/.vs
+/_build
+/packages
+/NetCoreSqlBulkCopyBug/bin
+/NetCoreSqlBulkCopyBug/obj
+/NetCoreSqlBulkCopyBug/*.csproj.user
+/*.sln.DotSettings.user
